@@ -261,7 +261,7 @@ function App() {
               conferencing. Join us in shaping the future of communication!
           </p>
         </div>
-        <div>
+        <div className='mr-24'>
           <h2 className="text-sm text-gray-500 cursor-pointer my-3 font-semibold">
             Product
           </h2>
@@ -281,7 +281,7 @@ function App() {
             Pricing
           </h2>
         </div>
-        <div>
+        <div className='mr-24'>
           <h2 className="text-sm text-gray-500 cursor-pointer my-3 font-semibold">
             Company
           </h2>
@@ -301,7 +301,7 @@ function App() {
             Contact
           </h2>
         </div>
-        <div>
+        <div className='mr-24'>
           <h2 className="text-sm text-gray-500 cursor-pointer my-3 font-semibold">
             Resorces
           </h2>
@@ -321,7 +321,7 @@ function App() {
             Support
           </h2>
         </div>
-        <div>
+        <div className='mr-24'>
           <h2 className="text-sm text-gray-500 cursor-pointer my-3 font-semibold">
             Legal
           </h2>
