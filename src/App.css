@@ -18,7 +18,7 @@ height: 30px;
 width: 30px; /* Adjust the width and height as needed */
 height: 30px;
 /* font-size: 20px; */
-  background-image: url("icons/cam-icon.svg");
+  background-image: url("/public/icons/cam-icon.svg");
   background-size: cover;
 }
 .monitor-icon {
@@ -26,7 +26,7 @@ height: 30px;
 width: 30px; /* Adjust the width and height as needed */
 height: 30px;
 /* font-size: 20px; */
-  background-image: url("icons/monitor-icon.svg");
+  background-image: url("/public/icons/monitor-icon.svg");
   background-size: cover;
 }
 .smile-icon {
@@ -34,7 +34,7 @@ height: 30px;
 width: 30px; /* Adjust the width and height as needed */
 height: 30px;
 /* font-size: 20px; */
-  background-image: url("icons/smile-icon.svg");
+  background-image: url("/public/icons/smile-icon.svg");
   background-size: cover;
 }
 .chat-icon {
@@ -42,7 +42,7 @@ height: 30px;
 width: 30px; /* Adjust the width and height as needed */
 height: 30px;
 /* font-size: 20px; */
-  background-image: url("icons/chat-icon.svg");
+  background-image: url("/public/icons/chat-icon.svg");
   background-size: cover;
 }
 .settings-icon {
@@ -120,7 +120,7 @@ height: 40px;
   width: 18px; /* Adjust the width and height as needed */
 height: 18px;
 /* font-size: 20px; */
-  background-image: url("icons/AIicon.svg");
+  background-image: url("/public/icons/AIicon.svg");
   background-size: cover;
 
 }
