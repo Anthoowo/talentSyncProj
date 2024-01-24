@@ -98,7 +98,8 @@ function App() {
               </div>
             </div>
             <div className="flex gap-1 w-auto justify-center mt-4 mb-6 ">
-              <div className="mic-icon cursor-pointer"></div>
+{/*               <div className="mic-icon cursor-pointer"></div> */}
+              <div class="w-30 h-30 bg-cover bg-center" style="background-image: url('icons/mic-icon.svg')"></div>
               <div className="cam-icon cursor-pointer"></div>
               <div className="monitor-icon cursor-pointer"></div>
               <div className="smile-icon cursor-pointer"></div>
