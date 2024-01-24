@@ -1,0 +1,126 @@
+#welcome {
+  background-image: url("images/Background pattern.png");
+  background-size: cover; /* This property ensures the background image covers the entire element */
+  background-repeat: no-repeat; /* Prevents the background image from repeating */
+}
+
+
+.mic-icon {
+
+width: 30px; /* Adjust the width and height as needed */
+height: 30px;
+/* font-size: 20px; */
+  background-image: url("icons/mic-icon.svg");
+  background-size: cover;
+}
+.cam-icon {
+
+width: 30px; /* Adjust the width and height as needed */
+height: 30px;
+/* font-size: 20px; */
+  background-image: url("icons/cam-icon.svg");
+  background-size: cover;
+}
+.monitor-icon {
+
+width: 30px; /* Adjust the width and height as needed */
+height: 30px;
+/* font-size: 20px; */
+  background-image: url("icons/monitor-icon.svg");
+  background-size: cover;
+}
+.smile-icon {
+
+width: 30px; /* Adjust the width and height as needed */
+height: 30px;
+/* font-size: 20px; */
+  background-image: url("icons/smile-icon.svg");
+  background-size: cover;
+}
+.chat-icon {
+
+width: 30px; /* Adjust the width and height as needed */
+height: 30px;
+/* font-size: 20px; */
+  background-image: url("icons/chat-icon.svg");
+  background-size: cover;
+}
+.settings-icon {
+
+width: 30px; /* Adjust the width and height as needed */
+height: 30px;
+/* font-size: 20px; */
+  background-image: url("icons/settings-icon.svg");
+  background-size: cover;
+}
+
+
+
+.zapcam-icon{
+    width: 40px; /* Adjust the width and height as needed */
+height: 40px;
+/* font-size: 20px; */
+  background-image: url("icons/zapcam.svg");
+  background-size: cover;
+}
+
+.calender-icon{
+    width: 30px; /* Adjust the width and height as needed */
+    height: 30px;
+    /* font-size: 20px; */
+      background-image: url("icons/calendar.svg");
+      background-size: cover;
+    
+}
+
+.audio-icon{
+    width: 40px; /* Adjust the width and height as needed */
+    height: 40px;
+    /* font-size: 20px; */
+      background-image: url("icons/zapaudio.svg");
+      background-size: cover;
+    
+}
+
+.lock-icon{
+    width: 30px; /* Adjust the width and height as needed */
+    height: 30px;
+    /* font-size: 20px; */
+      background-image: url("icons/lock.svg");
+      background-size: cover;
+    
+}
+
+
+.check-icon{
+  margin: 0;
+  padding: 0;
+  width: 18px; /* Adjust the width and height as needed */
+  height: 18px;
+  /* font-size: 20px; */
+    background-image: url("icons/Check-icon.svg");
+    background-size: cover;
+    
+
+}
+
+.group-icon{
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  width: 18px; /* Adjust the width and height as needed */
+  height: 18px;
+  /* font-size: 20px; */
+    background-image: url("images/Group.svg");
+    background-size: cover;
+    
+}
+
+.ai-icon{
+  width: 18px; /* Adjust the width and height as needed */
+height: 18px;
+/* font-size: 20px; */
+  background-image: url("icons/AIicon.svg");
+  background-size: cover;
+
+}
