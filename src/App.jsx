@@ -16,7 +16,7 @@ function App() {
     <>
       <section
         id="welcome"
-        className='bg-[url("public/images/Background pattern.svg")] pb-20'
+        className='bg-[url("/public/images/Background-pattern.svg")] pb-20'
       >
         <NavBar />
         
