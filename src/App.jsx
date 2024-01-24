@@ -255,7 +255,10 @@ function App() {
           </h1>
           <p className="p-3 text-sm text-gray-600 font-medium mt-3">
             ClearLink is your gateway to effortless, high- quality video
-            conferencing. Join us in shaping the future of communication!
+          </p>
+        </div>
+          <p className="p-3 text-sm text-gray-600 font-medium mt-3">
+              conferencing. Join us in shaping the future of communication!
           </p>
         </div>
         <div>
