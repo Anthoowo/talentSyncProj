@@ -338,7 +338,7 @@ function App() {
             Contact
           </h2>
         </div>
-        <div className="flex flex-col">
+        <div className="flex flex-col ml-4">
           <h2 className="text-[#3573ee]">Get the App</h2>
           <button
             type="button"
