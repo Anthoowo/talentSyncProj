@@ -1,5 +1,5 @@
 #welcome {
-  background-image: url("images/Background pattern.png");
+  background-image: url("/public/images/Background-pattern.png");
   background-size: cover; /* This property ensures the background image covers the entire element */
   background-repeat: no-repeat; /* Prevents the background image from repeating */
 }
