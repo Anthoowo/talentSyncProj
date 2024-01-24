@@ -10,7 +10,7 @@
 width: 30px; /* Adjust the width and height as needed */
 height: 30px;
 /* font-size: 20px; */
-  background-image: url("icons/mic-icon.svg");
+  background-image: url("/public/icons/mic-icon.svg");
   background-size: cover;
 }
 .cam-icon {
@@ -50,7 +50,7 @@ height: 30px;
 width: 30px; /* Adjust the width and height as needed */
 height: 30px;
 /* font-size: 20px; */
-  background-image: url("icons/settings-icon.svg");
+  background-image: url("/public/icons/settings-icon.svg");
   background-size: cover;
 }
 
@@ -60,7 +60,7 @@ height: 30px;
     width: 40px; /* Adjust the width and height as needed */
 height: 40px;
 /* font-size: 20px; */
-  background-image: url("icons/zapcam.svg");
+  background-image: url("/public/icons/zapcam.svg");
   background-size: cover;
 }
 
@@ -68,7 +68,7 @@ height: 40px;
     width: 30px; /* Adjust the width and height as needed */
     height: 30px;
     /* font-size: 20px; */
-      background-image: url("icons/calendar.svg");
+      background-image: url("/public/icons/calendar.svg");
       background-size: cover;
     
 }
@@ -77,7 +77,7 @@ height: 40px;
     width: 40px; /* Adjust the width and height as needed */
     height: 40px;
     /* font-size: 20px; */
-      background-image: url("icons/zapaudio.svg");
+      background-image: url("/public/icons/zapaudio.svg");
       background-size: cover;
     
 }
@@ -86,7 +86,7 @@ height: 40px;
     width: 30px; /* Adjust the width and height as needed */
     height: 30px;
     /* font-size: 20px; */
-      background-image: url("icons/lock.svg");
+      background-image: url("/public/icons/lock.svg");
       background-size: cover;
     
 }
@@ -98,7 +98,7 @@ height: 40px;
   width: 18px; /* Adjust the width and height as needed */
   height: 18px;
   /* font-size: 20px; */
-    background-image: url("icons/Check-icon.svg");
+    background-image: url("/public/icons/Check-icon.svg");
     background-size: cover;
     
 
@@ -111,7 +111,7 @@ height: 40px;
   width: 18px; /* Adjust the width and height as needed */
   height: 18px;
   /* font-size: 20px; */
-    background-image: url("images/Group.svg");
+    background-image: url("/public/images/Group.svg");
     background-size: cover;
     
 }
